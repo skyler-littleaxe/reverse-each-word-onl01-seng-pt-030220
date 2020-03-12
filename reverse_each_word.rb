@@ -1,8 +1,8 @@
-def reverse_each_word(sentence)
-sentence.split
+#def reverse_each_word(sentence)
+#sentence.split
 
 
-end
+#end
 
 
 def reverse_eache_word(sentence)
@@ -11,3 +11,4 @@ def reverse_eache_word(sentence)
   word.reverse
 end
 reversed.join("")
+end

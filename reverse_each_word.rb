@@ -10,5 +10,6 @@ def reverse_each_word(sentence)
   do [word]
   word.reverse
 end
+end
 reversed.join(" ")
 end
